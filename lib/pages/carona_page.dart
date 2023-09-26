@@ -170,6 +170,9 @@ class _CaronaPageState extends State<CaronaPage> {
                   backgroundColor: MaterialStateProperty.all(Colors.yellow),
                 ),
               ),
+            SizedBox(
+              height: 20,
+            ),
             if (!naoReservado && !widget.carona.finalizado)
               ElevatedButton(
                 onPressed: () {
