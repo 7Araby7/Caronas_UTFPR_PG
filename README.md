@@ -13,7 +13,7 @@ O Caronas UTFPR é um aplicativo de compartilhamento de caronas projetado para a
 
 - **Funcionalidades Faltantes**: Algumas funcionalidades ainda estão em desenvolvimento, incluindo notificações em tempo real, editar perfil, chat com funcionamento integral, adicionar banco de dados, funcionalidade nativa do celular, reduzir repetições de código, contador nas mensagens, .
 
-- **Dependências**: Para o Funcionamento correto desse app é necessário que tenha um celular ou um emulador, tenha instalado o Flutter versão >= ^3.0.1 e < ^4.0.0 , tenha instalado o JDK de versão 11.0.20 ou similar a última versão lançada.
+- **Dependências**: Para o Funcionamento correto desse app é necessário que tenha um celular ou um emulador, tenha instalado o Flutter com o sdk versão >= ^3.0.0 e < ^4.0.0 , tenha instalado o JDK de versão 11.0.20 ou similar a última versão lançada.
 
 - **Instalação**: Primeiramente verificar se foi instalado todas as dependências necessárias para o funcionamento. Após isso basta iniciar o aplicativo com uma IDE da sua escolha (EX: Visual Studio Code), conecte seu telefone atravéz de um USB (tenha em mente que deve habilitar o modo desenvolvedor do seu dispositivo) ou utilize um emulador para rodar o app, após dar execute em sua IDE, ele vai abrir em seu dispositivo.
 
