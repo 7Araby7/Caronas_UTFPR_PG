@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270820082369",
+    "project_id": "caronas-utfpr-pg-7ef49",
+    "storage_bucket": "caronas-utfpr-pg-7ef49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270820082369:android:e3c90ff68cfa0664ef0a40",
+        "android_client_info": {
+          "package_name": "com.example.caronas_utfpr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzdtsrYK3hloBZrgUxMdqAI4gZhQHD8Pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
